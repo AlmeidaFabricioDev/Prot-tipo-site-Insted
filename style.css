@@ -1,0 +1,26 @@
+@import url('./css/navbar.css');
+@import url('./css/secao1.css');
+@import url('./css/secao2.css');
+@import url('./css/secao3.css');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;600;700&display=swap');
+
+
+
+
+:root{
+    --fonte-titulos : 'Open Sans', sans-serif;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+
+}

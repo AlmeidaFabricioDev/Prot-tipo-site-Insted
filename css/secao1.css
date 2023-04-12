@@ -1,0 +1,41 @@
+.secao-1{
+    background-image: url('../img/robotgradientintro2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo-secao1{
+    margin: 2% 7% 2% 7%;
+    width: 50%;
+}
+
+.secao1-imagens img{ 
+    max-width: 20%;
+    margin-left: -30px;
+}
+
+.secao1-textos{
+   padding-left: 5%;
+   display: flex;
+   flex-direction: column;
+   gap: 2em;
+}
+
+.secao-textos-titulo{
+    font-family: var(--fonte-titulos);
+    font-weight: 700;
+    color: white;
+    font-size: 7rem;
+    margin-top: -80px;
+}
+
+.secao-textos-paragrafo{
+    font-family: var(--fonte-titulos);
+    font-weight: 500;
+    color: white;
+    font-size: 1.5rem;
+}

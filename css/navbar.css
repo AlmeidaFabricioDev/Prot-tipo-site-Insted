@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 7% ;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.itens-menu{
+    display: flex;
+    gap: 2em;
+}
+
+.item{
+    text-decoration: none;
+    font-family: var(--fonte-titulos);
+    color: #111111;
+    font-size: 1rem;
+}
